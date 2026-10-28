@@ -1,4 +1,13 @@
 body {
-    font-family: Arial;
+    zoom: 2;
     background-color: wheat;
+    font-family: monospace;
+}
+
+#profilepics {
+margin-left: 20px;
+}
+
+#projectpics {
+margin-left: 20px;
 }
